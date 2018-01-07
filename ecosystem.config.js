@@ -1,7 +1,7 @@
 module.exports = {
   apps: [{
     name: 'gangsta-node-1',
-    script: './index.js'
+    script: './app.js'
   }],
   deploy: {
     production: {
